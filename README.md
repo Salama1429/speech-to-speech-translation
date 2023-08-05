@@ -1,5 +1,5 @@
 # speech-to-speech-translation (Cascaded STST)
-cascaded speech-to-speech translation (STST), mapping from source speech in any language to target speech in German
+cascaded speech-to-speech translation (STST), mapping from source speech in any language to target speech in German using my German TTS model.
 
 ![Cascaded STST](https://huggingface.co/datasets/huggingface-course/audio-course-images/resolve/main/s2st_cascaded.png "Diagram of cascaded speech to speech translation")
 
@@ -8,7 +8,7 @@ cascaded speech-to-speech translation (STST), mapping from source speech in any 
 This repository demonstrates cascaded speech-to-speech translation (STST), which involves mapping source speech in any language to target speech in German. The demo utilizes the following models:
 
 - [Whisper Base](https://huggingface.co/openai/whisper-base): OpenAI's model for speech translation
-- [My German TTS](https://huggingface.co/Salama1429/TTS_German_Speecht5_finetuned_voxpopuli_nl): Microsoft's text-to-speech model for generating German speech
+- [My German TTS](https://huggingface.co/Salama1429/TTS_German_Speecht5_finetuned_voxpopuli_nl): My text-to-speech model for generating German speech
 
 ## How It Works
 
